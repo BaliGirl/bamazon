@@ -15,7 +15,8 @@ inventory (less than 5 items in stock), choose to up the inventory back to the c
 needed, and even add new items to your inventory!</p>
 <br/>
 <b>Happy shopping!</b>
-
+<br/>
+<br/>
 <p>Installations:
 <li>Type: npm install</li>
 <li>Type "node bamazonCustomer.js" for Customer portal and "node bamazonManager.js" for Manager portal in CLI to kickstart app</li>
