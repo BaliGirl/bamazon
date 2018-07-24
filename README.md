@@ -15,7 +15,9 @@ inventory (less than 5 items in stock), choose to up the inventory back to the c
 needed, and even add new items to your inventory!</p>
 <br/>
 <b>Video Demo of Bamazon Working App!</b>
-<a href="https://drive.google.com/file/d/1h1fz-9s2IImcMhkqwqb6Jmneuc6BMsTL/view">https://drive.google.com/file/d/1h1fz-9s2IImcMhkqwqb6Jmneuc6BMsTL/view</a>
+<p>
+<a href="https://drive.google.com/file/d/1h1fz-9s2IImcMhkqwqb6Jmneuc6BMsTL/view">https://drive.google.com/file/d/1h1fz-9s2IImcMhkqwqb6Jmneuc6BMsTL/view</a></p>
+<br/>
 <b>Happy shopping!</b>
 <br/>
 <br/>
