@@ -14,6 +14,8 @@ will not go through.</p>
 inventory (less than 5 items in stock), choose to up the inventory back to the correct amount
 needed, and even add new items to your inventory!</p>
 <br/>
+<b>Video Demo of Bamazon Working App!</b>
+<a href="https://drive.google.com/file/d/1h1fz-9s2IImcMhkqwqb6Jmneuc6BMsTL/view">https://drive.google.com/file/d/1h1fz-9s2IImcMhkqwqb6Jmneuc6BMsTL/view</a>
 <b>Happy shopping!</b>
 <br/>
 <br/>
